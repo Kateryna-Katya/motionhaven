@@ -1,0 +1,7 @@
+.home-section{
+    background-image: url("/img/home/mob.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% 677px;
+    height: 753px;
+}
